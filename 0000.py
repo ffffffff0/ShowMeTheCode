@@ -3,7 +3,7 @@ from PIL import Image, ImageDraw, ImageFont
 import sys
 
 # read the image 
-image = Image.open("./source/photo.jpg")
+image = Image.open("./source/0000/photo.jpg")
 # Draw
 draw = ImageDraw.Draw(image)
 # font size
